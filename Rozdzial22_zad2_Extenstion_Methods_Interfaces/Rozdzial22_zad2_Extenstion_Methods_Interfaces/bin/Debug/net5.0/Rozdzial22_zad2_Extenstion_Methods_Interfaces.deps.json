@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Rozdzial22_zad2_Extenstion_Methods_Interfaces/1.0.0": {
+        "runtime": {
+          "Rozdzial22_zad2_Extenstion_Methods_Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rozdzial22_zad2_Extenstion_Methods_Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

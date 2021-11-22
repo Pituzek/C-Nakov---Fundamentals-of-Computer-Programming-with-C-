@@ -1,0 +1,16 @@
+C:\Users\piotr\source\repos\Rozdzial22_zad3_LINQ\Rozdzial22_zad3_LINQ\bin\Debug\net5.0\Rozdzial22_zad3_LINQ.exe
+C:\Users\piotr\source\repos\Rozdzial22_zad3_LINQ\Rozdzial22_zad3_LINQ\bin\Debug\net5.0\Rozdzial22_zad3_LINQ.deps.json
+C:\Users\piotr\source\repos\Rozdzial22_zad3_LINQ\Rozdzial22_zad3_LINQ\bin\Debug\net5.0\Rozdzial22_zad3_LINQ.runtimeconfig.json
+C:\Users\piotr\source\repos\Rozdzial22_zad3_LINQ\Rozdzial22_zad3_LINQ\bin\Debug\net5.0\Rozdzial22_zad3_LINQ.runtimeconfig.dev.json
+C:\Users\piotr\source\repos\Rozdzial22_zad3_LINQ\Rozdzial22_zad3_LINQ\bin\Debug\net5.0\Rozdzial22_zad3_LINQ.dll
+C:\Users\piotr\source\repos\Rozdzial22_zad3_LINQ\Rozdzial22_zad3_LINQ\bin\Debug\net5.0\ref\Rozdzial22_zad3_LINQ.dll
+C:\Users\piotr\source\repos\Rozdzial22_zad3_LINQ\Rozdzial22_zad3_LINQ\bin\Debug\net5.0\Rozdzial22_zad3_LINQ.pdb
+C:\Users\piotr\source\repos\Rozdzial22_zad3_LINQ\Rozdzial22_zad3_LINQ\obj\Debug\net5.0\Rozdzial22_zad3_LINQ.csproj.AssemblyReference.cache
+C:\Users\piotr\source\repos\Rozdzial22_zad3_LINQ\Rozdzial22_zad3_LINQ\obj\Debug\net5.0\Rozdzial22_zad3_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piotr\source\repos\Rozdzial22_zad3_LINQ\Rozdzial22_zad3_LINQ\obj\Debug\net5.0\Rozdzial22_zad3_LINQ.AssemblyInfoInputs.cache
+C:\Users\piotr\source\repos\Rozdzial22_zad3_LINQ\Rozdzial22_zad3_LINQ\obj\Debug\net5.0\Rozdzial22_zad3_LINQ.AssemblyInfo.cs
+C:\Users\piotr\source\repos\Rozdzial22_zad3_LINQ\Rozdzial22_zad3_LINQ\obj\Debug\net5.0\Rozdzial22_zad3_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\piotr\source\repos\Rozdzial22_zad3_LINQ\Rozdzial22_zad3_LINQ\obj\Debug\net5.0\Rozdzial22_zad3_LINQ.dll
+C:\Users\piotr\source\repos\Rozdzial22_zad3_LINQ\Rozdzial22_zad3_LINQ\obj\Debug\net5.0\ref\Rozdzial22_zad3_LINQ.dll
+C:\Users\piotr\source\repos\Rozdzial22_zad3_LINQ\Rozdzial22_zad3_LINQ\obj\Debug\net5.0\Rozdzial22_zad3_LINQ.pdb
+C:\Users\piotr\source\repos\Rozdzial22_zad3_LINQ\Rozdzial22_zad3_LINQ\obj\Debug\net5.0\Rozdzial22_zad3_LINQ.genruntimeconfig.cache
