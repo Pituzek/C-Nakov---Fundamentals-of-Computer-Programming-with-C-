@@ -1,0 +1,15 @@
+C:\Users\piotr\source\repos\Rozdzial13_zad18\Rozdzial13_zad18\bin\Debug\net5.0\Rozdzial13_zad18.exe
+C:\Users\piotr\source\repos\Rozdzial13_zad18\Rozdzial13_zad18\bin\Debug\net5.0\Rozdzial13_zad18.deps.json
+C:\Users\piotr\source\repos\Rozdzial13_zad18\Rozdzial13_zad18\bin\Debug\net5.0\Rozdzial13_zad18.runtimeconfig.json
+C:\Users\piotr\source\repos\Rozdzial13_zad18\Rozdzial13_zad18\bin\Debug\net5.0\Rozdzial13_zad18.runtimeconfig.dev.json
+C:\Users\piotr\source\repos\Rozdzial13_zad18\Rozdzial13_zad18\bin\Debug\net5.0\Rozdzial13_zad18.dll
+C:\Users\piotr\source\repos\Rozdzial13_zad18\Rozdzial13_zad18\bin\Debug\net5.0\ref\Rozdzial13_zad18.dll
+C:\Users\piotr\source\repos\Rozdzial13_zad18\Rozdzial13_zad18\bin\Debug\net5.0\Rozdzial13_zad18.pdb
+C:\Users\piotr\source\repos\Rozdzial13_zad18\Rozdzial13_zad18\obj\Debug\net5.0\Rozdzial13_zad18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piotr\source\repos\Rozdzial13_zad18\Rozdzial13_zad18\obj\Debug\net5.0\Rozdzial13_zad18.AssemblyInfoInputs.cache
+C:\Users\piotr\source\repos\Rozdzial13_zad18\Rozdzial13_zad18\obj\Debug\net5.0\Rozdzial13_zad18.AssemblyInfo.cs
+C:\Users\piotr\source\repos\Rozdzial13_zad18\Rozdzial13_zad18\obj\Debug\net5.0\Rozdzial13_zad18.csproj.CoreCompileInputs.cache
+C:\Users\piotr\source\repos\Rozdzial13_zad18\Rozdzial13_zad18\obj\Debug\net5.0\Rozdzial13_zad18.dll
+C:\Users\piotr\source\repos\Rozdzial13_zad18\Rozdzial13_zad18\obj\Debug\net5.0\ref\Rozdzial13_zad18.dll
+C:\Users\piotr\source\repos\Rozdzial13_zad18\Rozdzial13_zad18\obj\Debug\net5.0\Rozdzial13_zad18.pdb
+C:\Users\piotr\source\repos\Rozdzial13_zad18\Rozdzial13_zad18\obj\Debug\net5.0\Rozdzial13_zad18.genruntimeconfig.cache
