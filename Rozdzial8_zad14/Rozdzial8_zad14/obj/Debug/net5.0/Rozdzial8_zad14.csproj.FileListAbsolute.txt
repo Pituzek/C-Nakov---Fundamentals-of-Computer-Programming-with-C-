@@ -1,0 +1,15 @@
+C:\Users\piotr\source\repos\Rozdzial8_zad14\Rozdzial8_zad14\bin\Debug\net5.0\Rozdzial8_zad14.exe
+C:\Users\piotr\source\repos\Rozdzial8_zad14\Rozdzial8_zad14\bin\Debug\net5.0\Rozdzial8_zad14.deps.json
+C:\Users\piotr\source\repos\Rozdzial8_zad14\Rozdzial8_zad14\bin\Debug\net5.0\Rozdzial8_zad14.runtimeconfig.json
+C:\Users\piotr\source\repos\Rozdzial8_zad14\Rozdzial8_zad14\bin\Debug\net5.0\Rozdzial8_zad14.runtimeconfig.dev.json
+C:\Users\piotr\source\repos\Rozdzial8_zad14\Rozdzial8_zad14\bin\Debug\net5.0\Rozdzial8_zad14.dll
+C:\Users\piotr\source\repos\Rozdzial8_zad14\Rozdzial8_zad14\bin\Debug\net5.0\ref\Rozdzial8_zad14.dll
+C:\Users\piotr\source\repos\Rozdzial8_zad14\Rozdzial8_zad14\bin\Debug\net5.0\Rozdzial8_zad14.pdb
+C:\Users\piotr\source\repos\Rozdzial8_zad14\Rozdzial8_zad14\obj\Debug\net5.0\Rozdzial8_zad14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piotr\source\repos\Rozdzial8_zad14\Rozdzial8_zad14\obj\Debug\net5.0\Rozdzial8_zad14.AssemblyInfoInputs.cache
+C:\Users\piotr\source\repos\Rozdzial8_zad14\Rozdzial8_zad14\obj\Debug\net5.0\Rozdzial8_zad14.AssemblyInfo.cs
+C:\Users\piotr\source\repos\Rozdzial8_zad14\Rozdzial8_zad14\obj\Debug\net5.0\Rozdzial8_zad14.csproj.CoreCompileInputs.cache
+C:\Users\piotr\source\repos\Rozdzial8_zad14\Rozdzial8_zad14\obj\Debug\net5.0\Rozdzial8_zad14.dll
+C:\Users\piotr\source\repos\Rozdzial8_zad14\Rozdzial8_zad14\obj\Debug\net5.0\ref\Rozdzial8_zad14.dll
+C:\Users\piotr\source\repos\Rozdzial8_zad14\Rozdzial8_zad14\obj\Debug\net5.0\Rozdzial8_zad14.pdb
+C:\Users\piotr\source\repos\Rozdzial8_zad14\Rozdzial8_zad14\obj\Debug\net5.0\Rozdzial8_zad14.genruntimeconfig.cache
