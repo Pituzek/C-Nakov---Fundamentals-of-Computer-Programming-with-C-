@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Rozdzial17_zad6/1.0.0": {
+        "dependencies": {
+          "BinaryTreeTest": "1.0.0"
+        },
+        "runtime": {
+          "Rozdzial17_zad6.dll": {}
+        }
+      },
+      "BinaryTreeTest/1.0.0": {
+        "runtime": {
+          "BinaryTreeTest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rozdzial17_zad6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BinaryTreeTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\piotr\source\repos\Rozdzial17_zad1\Rozdzial17_zad7_v2\bin\Debug\net5.0\Rozdzial17_zad7_v2.exe
+C:\Users\piotr\source\repos\Rozdzial17_zad1\Rozdzial17_zad7_v2\bin\Debug\net5.0\Rozdzial17_zad7_v2.deps.json
+C:\Users\piotr\source\repos\Rozdzial17_zad1\Rozdzial17_zad7_v2\bin\Debug\net5.0\Rozdzial17_zad7_v2.runtimeconfig.json
+C:\Users\piotr\source\repos\Rozdzial17_zad1\Rozdzial17_zad7_v2\bin\Debug\net5.0\Rozdzial17_zad7_v2.runtimeconfig.dev.json
+C:\Users\piotr\source\repos\Rozdzial17_zad1\Rozdzial17_zad7_v2\bin\Debug\net5.0\Rozdzial17_zad7_v2.dll
+C:\Users\piotr\source\repos\Rozdzial17_zad1\Rozdzial17_zad7_v2\bin\Debug\net5.0\ref\Rozdzial17_zad7_v2.dll
+C:\Users\piotr\source\repos\Rozdzial17_zad1\Rozdzial17_zad7_v2\bin\Debug\net5.0\Rozdzial17_zad7_v2.pdb
+C:\Users\piotr\source\repos\Rozdzial17_zad1\Rozdzial17_zad7_v2\obj\Debug\net5.0\Rozdzial17_zad7_v2.csproj.AssemblyReference.cache
+C:\Users\piotr\source\repos\Rozdzial17_zad1\Rozdzial17_zad7_v2\obj\Debug\net5.0\Rozdzial17_zad7_v2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piotr\source\repos\Rozdzial17_zad1\Rozdzial17_zad7_v2\obj\Debug\net5.0\Rozdzial17_zad7_v2.AssemblyInfoInputs.cache
+C:\Users\piotr\source\repos\Rozdzial17_zad1\Rozdzial17_zad7_v2\obj\Debug\net5.0\Rozdzial17_zad7_v2.AssemblyInfo.cs
+C:\Users\piotr\source\repos\Rozdzial17_zad1\Rozdzial17_zad7_v2\obj\Debug\net5.0\Rozdzial17_zad7_v2.csproj.CoreCompileInputs.cache
+C:\Users\piotr\source\repos\Rozdzial17_zad1\Rozdzial17_zad7_v2\obj\Debug\net5.0\Rozdzial17_zad7_v2.dll
+C:\Users\piotr\source\repos\Rozdzial17_zad1\Rozdzial17_zad7_v2\obj\Debug\net5.0\ref\Rozdzial17_zad7_v2.dll
+C:\Users\piotr\source\repos\Rozdzial17_zad1\Rozdzial17_zad7_v2\obj\Debug\net5.0\Rozdzial17_zad7_v2.pdb
+C:\Users\piotr\source\repos\Rozdzial17_zad1\Rozdzial17_zad7_v2\obj\Debug\net5.0\Rozdzial17_zad7_v2.genruntimeconfig.cache
