@@ -1,0 +1,16 @@
+C:\Users\piotr\source\repos\Rozdzial13_zad13\Rozdzial13_zad13\obj\Debug\net5.0\Rozdzial13_zad13.csprojAssemblyReference.cache
+C:\Users\piotr\source\repos\Rozdzial13_zad13\Rozdzial13_zad13\obj\Debug\net5.0\Rozdzial13_zad13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piotr\source\repos\Rozdzial13_zad13\Rozdzial13_zad13\obj\Debug\net5.0\Rozdzial13_zad13.AssemblyInfoInputs.cache
+C:\Users\piotr\source\repos\Rozdzial13_zad13\Rozdzial13_zad13\obj\Debug\net5.0\Rozdzial13_zad13.AssemblyInfo.cs
+C:\Users\piotr\source\repos\Rozdzial13_zad13\Rozdzial13_zad13\obj\Debug\net5.0\Rozdzial13_zad13.csproj.CoreCompileInputs.cache
+C:\Users\piotr\source\repos\Rozdzial13_zad13\Rozdzial13_zad13\bin\Debug\net5.0\Rozdzial13_zad13.exe
+C:\Users\piotr\source\repos\Rozdzial13_zad13\Rozdzial13_zad13\bin\Debug\net5.0\Rozdzial13_zad13.deps.json
+C:\Users\piotr\source\repos\Rozdzial13_zad13\Rozdzial13_zad13\bin\Debug\net5.0\Rozdzial13_zad13.runtimeconfig.json
+C:\Users\piotr\source\repos\Rozdzial13_zad13\Rozdzial13_zad13\bin\Debug\net5.0\Rozdzial13_zad13.runtimeconfig.dev.json
+C:\Users\piotr\source\repos\Rozdzial13_zad13\Rozdzial13_zad13\bin\Debug\net5.0\Rozdzial13_zad13.dll
+C:\Users\piotr\source\repos\Rozdzial13_zad13\Rozdzial13_zad13\bin\Debug\net5.0\ref\Rozdzial13_zad13.dll
+C:\Users\piotr\source\repos\Rozdzial13_zad13\Rozdzial13_zad13\bin\Debug\net5.0\Rozdzial13_zad13.pdb
+C:\Users\piotr\source\repos\Rozdzial13_zad13\Rozdzial13_zad13\obj\Debug\net5.0\Rozdzial13_zad13.dll
+C:\Users\piotr\source\repos\Rozdzial13_zad13\Rozdzial13_zad13\obj\Debug\net5.0\ref\Rozdzial13_zad13.dll
+C:\Users\piotr\source\repos\Rozdzial13_zad13\Rozdzial13_zad13\obj\Debug\net5.0\Rozdzial13_zad13.pdb
+C:\Users\piotr\source\repos\Rozdzial13_zad13\Rozdzial13_zad13\obj\Debug\net5.0\Rozdzial13_zad13.genruntimeconfig.cache
