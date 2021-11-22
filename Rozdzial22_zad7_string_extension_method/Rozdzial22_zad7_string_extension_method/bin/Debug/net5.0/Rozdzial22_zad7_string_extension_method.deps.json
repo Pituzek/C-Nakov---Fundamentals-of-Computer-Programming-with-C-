@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Rozdzial22_zad7_string_extension_method/1.0.0": {
+        "runtime": {
+          "Rozdzial22_zad7_string_extension_method.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rozdzial22_zad7_string_extension_method/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
