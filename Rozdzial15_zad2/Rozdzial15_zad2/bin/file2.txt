@@ -1,0 +1,2 @@
+2. funkcjonalnosci
+StreamReader i StreamWriter
