@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Rozdzial17_zad2/1.0.0": {
+        "dependencies": {
+          "TreeTest": "1.0.0"
+        },
+        "runtime": {
+          "Rozdzial17_zad2.dll": {}
+        }
+      },
+      "TreeTest/1.0.0": {
+        "runtime": {
+          "TreeTest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rozdzial17_zad2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TreeTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
