@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Rozdzial4_zad9/1.0.0": {
+        "runtime": {
+          "Rozdzial4_zad9.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rozdzial4_zad9/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

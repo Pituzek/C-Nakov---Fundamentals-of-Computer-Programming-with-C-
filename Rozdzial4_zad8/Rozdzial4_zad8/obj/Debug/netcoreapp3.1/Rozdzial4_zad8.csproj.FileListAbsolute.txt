@@ -1,0 +1,13 @@
+C:\Users\piotr\source\repos\Rozdzial4_zad8\Rozdzial4_zad8\bin\Debug\netcoreapp3.1\Rozdzial4_zad8.exe
+C:\Users\piotr\source\repos\Rozdzial4_zad8\Rozdzial4_zad8\bin\Debug\netcoreapp3.1\Rozdzial4_zad8.deps.json
+C:\Users\piotr\source\repos\Rozdzial4_zad8\Rozdzial4_zad8\bin\Debug\netcoreapp3.1\Rozdzial4_zad8.runtimeconfig.json
+C:\Users\piotr\source\repos\Rozdzial4_zad8\Rozdzial4_zad8\bin\Debug\netcoreapp3.1\Rozdzial4_zad8.runtimeconfig.dev.json
+C:\Users\piotr\source\repos\Rozdzial4_zad8\Rozdzial4_zad8\bin\Debug\netcoreapp3.1\Rozdzial4_zad8.dll
+C:\Users\piotr\source\repos\Rozdzial4_zad8\Rozdzial4_zad8\bin\Debug\netcoreapp3.1\Rozdzial4_zad8.pdb
+C:\Users\piotr\source\repos\Rozdzial4_zad8\Rozdzial4_zad8\obj\Debug\netcoreapp3.1\Rozdzial4_zad8.csprojAssemblyReference.cache
+C:\Users\piotr\source\repos\Rozdzial4_zad8\Rozdzial4_zad8\obj\Debug\netcoreapp3.1\Rozdzial4_zad8.AssemblyInfoInputs.cache
+C:\Users\piotr\source\repos\Rozdzial4_zad8\Rozdzial4_zad8\obj\Debug\netcoreapp3.1\Rozdzial4_zad8.AssemblyInfo.cs
+C:\Users\piotr\source\repos\Rozdzial4_zad8\Rozdzial4_zad8\obj\Debug\netcoreapp3.1\Rozdzial4_zad8.csproj.CoreCompileInputs.cache
+C:\Users\piotr\source\repos\Rozdzial4_zad8\Rozdzial4_zad8\obj\Debug\netcoreapp3.1\Rozdzial4_zad8.dll
+C:\Users\piotr\source\repos\Rozdzial4_zad8\Rozdzial4_zad8\obj\Debug\netcoreapp3.1\Rozdzial4_zad8.pdb
+C:\Users\piotr\source\repos\Rozdzial4_zad8\Rozdzial4_zad8\obj\Debug\netcoreapp3.1\Rozdzial4_zad8.genruntimeconfig.cache
