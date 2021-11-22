@@ -1,0 +1,12 @@
+C:\Users\piotr\source\repos\Rozdzial17_zad1\TreeTest\bin\Debug\net5.0\TreeTest.deps.json
+C:\Users\piotr\source\repos\Rozdzial17_zad1\TreeTest\bin\Debug\net5.0\TreeTest.dll
+C:\Users\piotr\source\repos\Rozdzial17_zad1\TreeTest\bin\Debug\net5.0\ref\TreeTest.dll
+C:\Users\piotr\source\repos\Rozdzial17_zad1\TreeTest\bin\Debug\net5.0\TreeTest.pdb
+C:\Users\piotr\source\repos\Rozdzial17_zad1\TreeTest\obj\Debug\net5.0\TreeTest.csproj.AssemblyReference.cache
+C:\Users\piotr\source\repos\Rozdzial17_zad1\TreeTest\obj\Debug\net5.0\TreeTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piotr\source\repos\Rozdzial17_zad1\TreeTest\obj\Debug\net5.0\TreeTest.AssemblyInfoInputs.cache
+C:\Users\piotr\source\repos\Rozdzial17_zad1\TreeTest\obj\Debug\net5.0\TreeTest.AssemblyInfo.cs
+C:\Users\piotr\source\repos\Rozdzial17_zad1\TreeTest\obj\Debug\net5.0\TreeTest.csproj.CoreCompileInputs.cache
+C:\Users\piotr\source\repos\Rozdzial17_zad1\TreeTest\obj\Debug\net5.0\TreeTest.dll
+C:\Users\piotr\source\repos\Rozdzial17_zad1\TreeTest\obj\Debug\net5.0\ref\TreeTest.dll
+C:\Users\piotr\source\repos\Rozdzial17_zad1\TreeTest\obj\Debug\net5.0\TreeTest.pdb
