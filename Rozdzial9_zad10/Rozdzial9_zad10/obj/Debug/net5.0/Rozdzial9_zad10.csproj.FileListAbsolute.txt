@@ -1,0 +1,15 @@
+C:\Users\piotr\source\repos\Rozdzial9_zad10\Rozdzial9_zad10\obj\Debug\net5.0\Rozdzial9_zad10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piotr\source\repos\Rozdzial9_zad10\Rozdzial9_zad10\obj\Debug\net5.0\Rozdzial9_zad10.AssemblyInfoInputs.cache
+C:\Users\piotr\source\repos\Rozdzial9_zad10\Rozdzial9_zad10\obj\Debug\net5.0\Rozdzial9_zad10.AssemblyInfo.cs
+C:\Users\piotr\source\repos\Rozdzial9_zad10\Rozdzial9_zad10\obj\Debug\net5.0\Rozdzial9_zad10.csproj.CoreCompileInputs.cache
+C:\Users\piotr\source\repos\Rozdzial9_zad10\Rozdzial9_zad10\bin\Debug\net5.0\Rozdzial9_zad10.exe
+C:\Users\piotr\source\repos\Rozdzial9_zad10\Rozdzial9_zad10\bin\Debug\net5.0\Rozdzial9_zad10.deps.json
+C:\Users\piotr\source\repos\Rozdzial9_zad10\Rozdzial9_zad10\bin\Debug\net5.0\Rozdzial9_zad10.runtimeconfig.json
+C:\Users\piotr\source\repos\Rozdzial9_zad10\Rozdzial9_zad10\bin\Debug\net5.0\Rozdzial9_zad10.runtimeconfig.dev.json
+C:\Users\piotr\source\repos\Rozdzial9_zad10\Rozdzial9_zad10\bin\Debug\net5.0\Rozdzial9_zad10.dll
+C:\Users\piotr\source\repos\Rozdzial9_zad10\Rozdzial9_zad10\bin\Debug\net5.0\ref\Rozdzial9_zad10.dll
+C:\Users\piotr\source\repos\Rozdzial9_zad10\Rozdzial9_zad10\bin\Debug\net5.0\Rozdzial9_zad10.pdb
+C:\Users\piotr\source\repos\Rozdzial9_zad10\Rozdzial9_zad10\obj\Debug\net5.0\Rozdzial9_zad10.dll
+C:\Users\piotr\source\repos\Rozdzial9_zad10\Rozdzial9_zad10\obj\Debug\net5.0\ref\Rozdzial9_zad10.dll
+C:\Users\piotr\source\repos\Rozdzial9_zad10\Rozdzial9_zad10\obj\Debug\net5.0\Rozdzial9_zad10.pdb
+C:\Users\piotr\source\repos\Rozdzial9_zad10\Rozdzial9_zad10\obj\Debug\net5.0\Rozdzial9_zad10.genruntimeconfig.cache
