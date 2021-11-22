@@ -1,0 +1,12 @@
+C:\Users\piotr\source\repos\Rozdzial6_zad2\Rozdzial6_zad2\bin\Debug\netcoreapp3.1\Rozdzial6_zad2.exe
+C:\Users\piotr\source\repos\Rozdzial6_zad2\Rozdzial6_zad2\bin\Debug\netcoreapp3.1\Rozdzial6_zad2.deps.json
+C:\Users\piotr\source\repos\Rozdzial6_zad2\Rozdzial6_zad2\bin\Debug\netcoreapp3.1\Rozdzial6_zad2.runtimeconfig.json
+C:\Users\piotr\source\repos\Rozdzial6_zad2\Rozdzial6_zad2\bin\Debug\netcoreapp3.1\Rozdzial6_zad2.runtimeconfig.dev.json
+C:\Users\piotr\source\repos\Rozdzial6_zad2\Rozdzial6_zad2\bin\Debug\netcoreapp3.1\Rozdzial6_zad2.dll
+C:\Users\piotr\source\repos\Rozdzial6_zad2\Rozdzial6_zad2\bin\Debug\netcoreapp3.1\Rozdzial6_zad2.pdb
+C:\Users\piotr\source\repos\Rozdzial6_zad2\Rozdzial6_zad2\obj\Debug\netcoreapp3.1\Rozdzial6_zad2.AssemblyInfoInputs.cache
+C:\Users\piotr\source\repos\Rozdzial6_zad2\Rozdzial6_zad2\obj\Debug\netcoreapp3.1\Rozdzial6_zad2.AssemblyInfo.cs
+C:\Users\piotr\source\repos\Rozdzial6_zad2\Rozdzial6_zad2\obj\Debug\netcoreapp3.1\Rozdzial6_zad2.csproj.CoreCompileInputs.cache
+C:\Users\piotr\source\repos\Rozdzial6_zad2\Rozdzial6_zad2\obj\Debug\netcoreapp3.1\Rozdzial6_zad2.dll
+C:\Users\piotr\source\repos\Rozdzial6_zad2\Rozdzial6_zad2\obj\Debug\netcoreapp3.1\Rozdzial6_zad2.pdb
+C:\Users\piotr\source\repos\Rozdzial6_zad2\Rozdzial6_zad2\obj\Debug\netcoreapp3.1\Rozdzial6_zad2.genruntimeconfig.cache
