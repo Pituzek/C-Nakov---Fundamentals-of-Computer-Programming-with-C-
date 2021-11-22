@@ -1,0 +1,16 @@
+C:\Users\piotr\source\repos\Rozdzial18_zad1\Rozdzial18_zad1\bin\Debug\net5.0\Rozdzial18_zad1.exe
+C:\Users\piotr\source\repos\Rozdzial18_zad1\Rozdzial18_zad1\bin\Debug\net5.0\Rozdzial18_zad1.deps.json
+C:\Users\piotr\source\repos\Rozdzial18_zad1\Rozdzial18_zad1\bin\Debug\net5.0\Rozdzial18_zad1.runtimeconfig.json
+C:\Users\piotr\source\repos\Rozdzial18_zad1\Rozdzial18_zad1\bin\Debug\net5.0\Rozdzial18_zad1.runtimeconfig.dev.json
+C:\Users\piotr\source\repos\Rozdzial18_zad1\Rozdzial18_zad1\bin\Debug\net5.0\Rozdzial18_zad1.dll
+C:\Users\piotr\source\repos\Rozdzial18_zad1\Rozdzial18_zad1\bin\Debug\net5.0\ref\Rozdzial18_zad1.dll
+C:\Users\piotr\source\repos\Rozdzial18_zad1\Rozdzial18_zad1\bin\Debug\net5.0\Rozdzial18_zad1.pdb
+C:\Users\piotr\source\repos\Rozdzial18_zad1\Rozdzial18_zad1\obj\Debug\net5.0\Rozdzial18_zad1.csproj.AssemblyReference.cache
+C:\Users\piotr\source\repos\Rozdzial18_zad1\Rozdzial18_zad1\obj\Debug\net5.0\Rozdzial18_zad1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piotr\source\repos\Rozdzial18_zad1\Rozdzial18_zad1\obj\Debug\net5.0\Rozdzial18_zad1.AssemblyInfoInputs.cache
+C:\Users\piotr\source\repos\Rozdzial18_zad1\Rozdzial18_zad1\obj\Debug\net5.0\Rozdzial18_zad1.AssemblyInfo.cs
+C:\Users\piotr\source\repos\Rozdzial18_zad1\Rozdzial18_zad1\obj\Debug\net5.0\Rozdzial18_zad1.csproj.CoreCompileInputs.cache
+C:\Users\piotr\source\repos\Rozdzial18_zad1\Rozdzial18_zad1\obj\Debug\net5.0\Rozdzial18_zad1.dll
+C:\Users\piotr\source\repos\Rozdzial18_zad1\Rozdzial18_zad1\obj\Debug\net5.0\ref\Rozdzial18_zad1.dll
+C:\Users\piotr\source\repos\Rozdzial18_zad1\Rozdzial18_zad1\obj\Debug\net5.0\Rozdzial18_zad1.pdb
+C:\Users\piotr\source\repos\Rozdzial18_zad1\Rozdzial18_zad1\obj\Debug\net5.0\Rozdzial18_zad1.genruntimeconfig.cache
